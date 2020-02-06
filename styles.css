@@ -1,0 +1,41 @@
+nav{
+  text-align: center;
+  text-decoration-color:black;
+}
+body{
+  background-color:paleturquoise;
+  font-size: larger;
+  font-family: 'Cinzel', serif;
+font-family: 'Lusitana', serif;
+}
+img{
+  :border-radius100%;
+  height:500px ;
+  width: 50%;
+  float:right;
+  border-radius: 20%;
+}
+#card .cards img {
+  float: none;
+  width: 20%;
+  height: 300px;
+}
+.cards {
+  box-shadow: 5px 5px 5px gray;
+  height: 300px;
+  width: 30%;
+  border-radius: 20%; 
+  background-color: black;
+  color:white;
+  text-align: center;
+  font-size: larger;
+}
+#card {
+  display: flex;
+  justify-content: space-around;
+}
+#About{
+  padding-left: 100px;
+  padding-right:300px ;
+  padding-bottom: 100px;
+}
