@@ -22,9 +22,9 @@ img{
 }
 .cards {
   box-shadow: 5px 5px 5px gray;
-  height: 300px;
-  width: 30%;
-  border-radius: 20%; 
+  height: 250px;
+  width: 20%;
+  border-radius: 10%; 
   background-color: black;
   color:white;
   text-align: center;
@@ -38,4 +38,12 @@ img{
   padding-left: 100px;
   padding-right:300px ;
   padding-bottom: 100px;
+  padding-top: 75px;
+}
+footer{
+  padding: 0px;
+  margin: 0px;
+  height: 200px;
+  background-color:rgb(54, 50, 50);
+  
 }
