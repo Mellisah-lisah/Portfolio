@@ -6,7 +6,8 @@ body{
   background-color:paleturquoise;
   font-size: larger;
   font-family: 'Cinzel', serif;
-font-family: 'Lusitana', serif;
+  font-family: 'Lusitana', serif;
+  
 }
 img{
   :border-radius100%;
@@ -45,5 +46,12 @@ footer{
   margin: 0px;
   height: 200px;
   background-color:rgb(54, 50, 50);
+  
+}
+#tech {
+  text-align: center;
+}
+#project{
+  text-align: center;
   
 }
