@@ -5,6 +5,10 @@ nav{
   display:block;
   font-size: xx-large;
   background-color:black ;
+  font-family: 'Vidaloka', serif;
+  font-family: 'Lalezar', cursive;
+  font-family: 'Suranna', serif;
+  font-family: 'DM Serif Text', serif;
 }
 body{
   background-color:paleturquoise;
