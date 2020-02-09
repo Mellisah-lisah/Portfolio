@@ -7,4 +7,7 @@ Ochieng Alice
 HTML and CSS
 ### MIT License
 Copyright <2020> <COPYRIGHT Ochieng Alice>
+### Link
+To run this project you can use the link;
+ https://mellisah-lisah.github.io/Portfolio/
 
